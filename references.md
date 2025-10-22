@@ -1,3 +1,6 @@
 # References
 
-* octocat 1 😈
+
+* octocat 99 🦊
+* hubot 2 🤖
+
